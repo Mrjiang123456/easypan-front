@@ -4,7 +4,7 @@
       <div class="header-content">
         <div class="logo" @click="jump">
           <span class="iconfont icon-pan"></span>
-          <span class="name">Easy云盘</span>
+          <span class="name">Magic云盘</span>
         </div>
       </div>
     </div>
@@ -322,7 +322,7 @@ const jump = () => {
 .header {
   width: 100%;
   position: fixed;
-  background: #0c95f7;
+  background: #645fef;//#0c95f7
   height: 50px;
   .header-content {
     width: 70%;
